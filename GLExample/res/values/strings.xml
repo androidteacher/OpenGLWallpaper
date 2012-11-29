@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello"></string>
+   
+    <string name="app_name">Example GL Model</string>
+<string name="wallpapers">Example GL Model</string>
+ 
+    <string name="GL_TITLE">Example GL Model</string>
+
+   
+
+   
+
+    <string name="settings_title">Settings</string>
+    <string name="cube2_settings_mode">Settings Subtext</string>
+   
+     <string name="gl_title">Settings Sections</string>
+    <string name="gl_file">Settings Section Subtext
+    </string>
+     <string name="desc">This is an example OpenGL Project
+</string>
+</resources>

@@ -1,0 +1,35 @@
+# Blender MTL File: ''
+# Material Count: 3
+newmtl White_untitled
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/imakadmin/demoworkspace/GLExample/res/drawable/texture.png
+
+
+newmtl palmtreeleaf_palmtree_untitled
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.471843 0.640000 0.306196
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/imakadmin/demoworkspace/GLExample/res/drawable/texture.png
+
+
+newmtl pinetreebark1_pinetre_untitled
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.313726 0.233412 0.173176
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/imakadmin/demoworkspace/GLExample/res/drawable/texture.png
+
+
